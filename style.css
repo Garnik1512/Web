@@ -1,0 +1,64 @@
+body {
+    background: url('./500_F_173540363_zMRCQNnrFIIHPx0o2BpusYiiUVdRAj0z.jpg');
+}
+div {
+    text-align: center;
+    font-weight: bold;
+
+}
+.home  {
+    color: rgb(9, 94, 9);
+    font-size: 50px;
+    font-style: oblique;
+    font-weight: bold;
+}
+.bootcamp1 {
+    color: rgb(5, 56, 5);
+    font-size: 30px;
+    font-weight: bold;
+}
+.bootcamp1 p {
+    font-size: 60px;
+}
+.bootcamp1 .camp img {
+    border-style: double;
+    height: 350px;
+    width: 500px;
+}
+.bootcamp1 .camp span {
+    color: black;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: bold;
+}
+.bootcamp1 .camp p {
+    color: rgb(58, 94, 23);
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+}
+.bootcamp2 {
+    color: rgb(5, 56, 5);
+    font-size: 30px;
+    font-weight: bold;
+}
+.bootcamp2 p {
+    font-size: 60px;
+}
+.bootcamp2 .backend img {
+    border-style: double;
+    height: 350px;
+    width: 500px;
+}
+.bootcamp1 .backend span {
+    color: black;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: bold;
+}
+.bootcamp1 .backend p {
+    color: rgb(58, 94, 23);
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+}
